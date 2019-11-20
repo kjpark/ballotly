@@ -1,0 +1,10 @@
+body {
+    background: white url("images/background.jpg") no-repeat;
+}
+
+li a {
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: aquamarine;
+    color: lightcoral;
+}
